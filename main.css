@@ -1,0 +1,19 @@
+.container-fluid{
+    background-color: lightseagreen;
+    height: 80px;
+}
+.display-1{
+    align-items: center;
+    justify-content: center;
+    margin-top: 20%;
+}
+.secondpage{
+    padding-top: 10%;
+    height: 90px;
+}
+.logo{
+    padding-top: 20%;
+}
+.thirdpage{
+    padding-top: 20%;
+}

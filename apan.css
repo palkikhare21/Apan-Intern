@@ -1,0 +1,53 @@
+
+.navbar{
+    height: 50px;
+    /* border: 2px solid black; */
+    display: flex;
+    background-color: rgb(38, 7, 211);
+    justify-content: space-around;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+@media screen and (max-width:480px){
+    main{
+        height: 600px;
+        width: 600px;
+    }  
+}
+
+#child{
+    padding-left: 45%;
+    display: flex;
+    width: 400px;
+    /* justify-content: space-around; */
+    justify-content: space-between;
+}
+#one{
+    /* size: 30px; */
+    color: white;
+    padding-left: 9px;
+    
+}
+#two{
+    color: white;
+    padding-left: 9px;
+}
+#three{
+    color: white;
+    padding-left: 9px;
+}
+#four {
+    color: white;
+    padding-left: 9px;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+}
+h1{
+    margin-top: 30%;
+    /* margin-left: 100px; */
+    padding-right: 200vw;
+}
